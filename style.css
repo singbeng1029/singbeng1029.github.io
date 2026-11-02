@@ -1,0 +1,19 @@
+*{box-sizing:border-box}
+body{margin:0;background:#fffaf0;color:#2b2b2b;font-family:-apple-system,'Malgun Gothic','Apple SD Gothic Neo',sans-serif;line-height:1.7}
+.wrap{max-width:640px;margin:0 auto;padding:40px 18px 60px}
+h1{font-size:28px;text-align:center;margin:0 0 28px}
+h2{font-size:19px;margin:30px 0 8px}
+a{color:#1a5fd0}
+.list{display:flex;flex-direction:column;gap:10px;margin:0 0 36px}
+.item{display:block;padding:16px 18px;background:#fff;border:1px solid #ecdfc4;border-radius:12px;color:#2b2b2b;text-decoration:none;font-weight:700;font-size:17px}
+.item small{display:block;font-weight:400;color:#777;font-size:14px;margin-top:2px}
+.contact{text-align:center;color:#555}
+.btns{display:flex;flex-direction:column;gap:10px;margin:24px 0}
+.btn{display:block;text-align:center;padding:13px;border-radius:10px;background:#2b2b2b;color:#fff;text-decoration:none;font-weight:700}
+.btn.sub{background:#fff;color:#2b2b2b;border:1px solid #cfc3a8}
+.back{display:inline-block;margin-bottom:18px;font-size:14px}
+table{border-collapse:collapse;width:100%;font-size:14px;margin:10px 0}
+th,td{border:1px solid #ddd;padding:8px;text-align:left;vertical-align:top}
+th{background:#f4ecd8}
+ul{padding-left:20px}
+.note{font-size:14px;color:#666}
